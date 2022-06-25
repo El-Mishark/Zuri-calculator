@@ -1,6 +1,6 @@
 let firstInput = prompt("input first value")
 console.log(firstInput);
-let secondValue = prompt("input second value")
+let secondInput= prompt("input second input")
 console.log(secondInput);
 let operator = prompt("input operator")
 
